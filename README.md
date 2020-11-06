@@ -11,20 +11,14 @@
 <title>انگیزه نامه</title>
 </head>
 
- <body style="background-color:powderblue;">
+ <body style="background-color:powderblu
+e;">
 
- <h1 style="text-align:center;">به نام خدا</h1>
+ <h1 style="text-align:center;"> به نام خدایی ک تکیه بر نامش غروریست جاودانه</h1>
 <pre style="text-align:center;">
 انگیزه نامه 
 ریحانه محرابی مقدم
  متولد۷۹/۰۳/۲ 
-</pre>
-
- <hr>
-
- <h2 style="text-align:center;">اهداف و انگیزه</h2>
-<p style="text-align:center;"> 
-. مهم ترین هدف بنده استفاده از تمام توان برای تبدیل شدن به یک برنامه نویس بدون نقص است
 
  <hr> 
 
